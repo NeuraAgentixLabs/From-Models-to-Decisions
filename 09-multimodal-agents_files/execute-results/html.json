@@ -1,0 +1,17 @@
+{
+  "hash": "29eada890b33eb9140bb0f481d6e28b8",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\noutput: html_document\neditor_options:\n    chunk_output_type: console\n---\n\n\n::: {.cell}\n\n:::\n\n\n# Evaluation and Benchmarking\n",
+    "supporting": [
+      "09-multimodal-agents_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
